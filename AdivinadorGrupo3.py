@@ -1,5 +1,4 @@
 import random
-//hola ahi pude editar jeje
 
 def adivina(intentos, numero):
     res= random.randint(0, 100)
@@ -23,5 +22,5 @@ adivina(oportunidades, guess)
 
 
 //Martin borra esto
-//Tomi borra esto
+
 
