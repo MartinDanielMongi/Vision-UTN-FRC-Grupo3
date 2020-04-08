@@ -19,3 +19,8 @@ oportunidades = int(input('Ingrese cantidad de intentos: '))
 guess = int(input('Ingrese un entero: '))
 
 adivina(oportunidades, guess)
+
+
+//Martin borra esto
+//Tomi borra esto
+
